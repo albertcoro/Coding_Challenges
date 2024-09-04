@@ -1,2 +1,2 @@
 # coding-challenges
-Coding Challenges from edabit (www.edabit.com)
+My solutions to the coding challenges from Edabit (www.edabit.com)
